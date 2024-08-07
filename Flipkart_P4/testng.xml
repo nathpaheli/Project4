@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/pahelinath/Documents/GIT/GitWorkSpace/Project4/Flipkart_P4/src/test/java/LoginScenarios_SauceDemo/LoginTests_SauceDemo.java">
+        <classes>
+            <class name="LoginScenarios_SauceDemo.LoginTests_SauceDemo">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
